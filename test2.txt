@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
 shfjgsdfddff
-=======
-new things to be added in the file
->>>>>>> Stashed changes
